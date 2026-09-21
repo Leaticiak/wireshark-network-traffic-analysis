@@ -81,11 +81,14 @@ It also helped me connect networking concepts I had studied theoretically with w
 ### ICMP Traffic Analysis
 
 The screenshot below shows ICMP Echo Request and Echo Reply packets captured during the ping test to **8.8.8.8**.
+![ICMP Traffic Analysis](screenshots/icmp-analysis.png)
 
 ### TCP Handshake
 
 The screenshot below shows TCP **SYN** and **SYN-ACK** packets observed during TCP connection establishment.
+![TCP Handshake](screenshots/tcp-handshake.png)
 
 ### Wireshark Traffic Overview
+![Wireshark Traffic Overview](screenshots/wireshark-overview.png)
 
 The screenshot below shows a general view of captured network traffic and different protocols observed in Wireshark.
