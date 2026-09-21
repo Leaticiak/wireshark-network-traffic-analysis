@@ -91,4 +91,4 @@ The screenshot below shows TCP **SYN** and **SYN-ACK** packets observed during T
 ### Wireshark Traffic Overview
 ![Wireshark Traffic Overview](screenshots/wireshark-overview.png)
 
-The screenshot below shows a general view of captured network traffic and different protocols observed in Wireshark.
+The screenshot above shows a general view of captured network traffic and different protocols observed in Wireshark.
